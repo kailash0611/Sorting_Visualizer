@@ -1,5 +1,5 @@
 
-![Logo](https://res.cloudinary.com/horizonkd/image/upload/v1625755899/Sorting-Visualizer/android-chrome-192x192_ajq9qd.png)
+<img src="app-demo.gif" />
 
     
 # Sorting Visualizer
@@ -30,7 +30,7 @@ Live Link : https://sortingvisualizers.netlify.app/
   
 ## Authors
 
-- [@KshitijDarekar](https://github.com/KshitijDarekar)
+- [@Kailash_Rampariya](https://github.com/kailash0611)
 
   
 ## Acknowledgements

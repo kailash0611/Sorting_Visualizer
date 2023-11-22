@@ -43,11 +43,11 @@ Live Link : https://sortingvisualizers.netlify.app/
 
 - Generate random array bars
 - Change the size of array bars
-- Bubble Sort ,Selection Sort,Insertion Sort, Quick Sort
+- Implemented the following algorithms Bubble Sort ,Selection Sort,Insertion Sort, Quick Sort
 - Cross platform
   
 ## Badges
 
 
-![languages](https://img.shields.io/github/languages/count/KshitijDarekar/sorting-vizualizer?style=plastic)
+![languages](https://img.shields.io/github/languages/count/kailash0611/sorting-vizualizer?style=plastic)
 

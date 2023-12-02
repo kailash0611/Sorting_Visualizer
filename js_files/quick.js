@@ -72,7 +72,7 @@
 //take input from arr_sz to change number of bars
 
 
-//~~ Kshitij Darekar
+//~~ Kailash Rampariya 
 
 const button4 = document.getElementById("Button4");
 
